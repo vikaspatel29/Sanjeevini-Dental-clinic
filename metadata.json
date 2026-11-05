@@ -1,0 +1,6 @@
+{
+  "name": "Sanjeevini Dental Clinic",
+  "description": "Premium appointment booking and patient care portal for Sanjeevini Dental Clinic in Vinobanagar, Shivamogga, Karnataka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
